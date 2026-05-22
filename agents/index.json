@@ -65,7 +65,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/academic/academic-anthropologist.md"
+      "path": "agents\\academic\\academic-anthropologist.md"
     },
     {
       "slug": "academic-geographer",
@@ -89,7 +89,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/academic/academic-geographer.md"
+      "path": "agents\\academic\\academic-geographer.md"
     },
     {
       "slug": "academic-historian",
@@ -112,7 +112,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/academic/academic-historian.md"
+      "path": "agents\\academic\\academic-historian.md"
     },
     {
       "slug": "academic-narratologist",
@@ -135,7 +135,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/academic/academic-narratologist.md"
+      "path": "agents\\academic\\academic-narratologist.md"
     },
     {
       "slug": "academic-psychologist",
@@ -158,7 +158,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/academic/academic-psychologist.md"
+      "path": "agents\\academic\\academic-psychologist.md"
     },
     {
       "slug": "design-brand-guardian",
@@ -185,7 +185,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/design/design-brand-guardian.md"
+      "path": "agents\\design\\design-brand-guardian.md"
     },
     {
       "slug": "design-image-prompt-engineer",
@@ -210,7 +210,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/design/design-image-prompt-engineer.md"
+      "path": "agents\\design\\design-image-prompt-engineer.md"
     },
     {
       "slug": "design-inclusive-visuals-specialist",
@@ -235,7 +235,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/design/design-inclusive-visuals-specialist.md"
+      "path": "agents\\design\\design-inclusive-visuals-specialist.md"
     },
     {
       "slug": "design-ui-designer",
@@ -266,7 +266,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/design/design-ui-designer.md"
+      "path": "agents\\design\\design-ui-designer.md"
     },
     {
       "slug": "design-ux-architect",
@@ -300,7 +300,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/design/design-ux-architect.md"
+      "path": "agents\\design\\design-ux-architect.md"
     },
     {
       "slug": "design-ux-researcher",
@@ -329,7 +329,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/design/design-ux-researcher.md"
+      "path": "agents\\design\\design-ux-researcher.md"
     },
     {
       "slug": "design-visual-storyteller",
@@ -357,7 +357,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/design/design-visual-storyteller.md"
+      "path": "agents\\design\\design-visual-storyteller.md"
     },
     {
       "slug": "design-whimsy-injector",
@@ -385,7 +385,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/design/design-whimsy-injector.md"
+      "path": "agents\\design\\design-whimsy-injector.md"
     },
     {
       "slug": "automation-governance-architect",
@@ -411,7 +411,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/automation-governance-architect.md"
+      "path": "agents\\engineering\\automation-governance-architect.md"
     },
     {
       "slug": "blockchain-security-auditor",
@@ -446,7 +446,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/blockchain-security-auditor.md"
+      "path": "agents\\engineering\\blockchain-security-auditor.md"
     },
     {
       "slug": "engineering-ai-data-remediation-engineer",
@@ -476,7 +476,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-ai-data-remediation-engineer.md"
+      "path": "agents\\engineering\\engineering-ai-data-remediation-engineer.md"
     },
     {
       "slug": "engineering-ai-engineer",
@@ -511,7 +511,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-ai-engineer.md"
+      "path": "agents\\engineering\\engineering-ai-engineer.md"
     },
     {
       "slug": "engineering-analytical-olap-engineer",
@@ -545,7 +545,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-analytical-olap-engineer.md"
+      "path": "agents\\engineering\\engineering-analytical-olap-engineer.md"
     },
     {
       "slug": "engineering-autonomous-optimization-architect",
@@ -573,7 +573,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-autonomous-optimization-architect.md"
+      "path": "agents\\engineering\\engineering-autonomous-optimization-architect.md"
     },
     {
       "slug": "engineering-backend-architect",
@@ -608,7 +608,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-backend-architect.md"
+      "path": "agents\\engineering\\engineering-backend-architect.md"
     },
     {
       "slug": "engineering-cloud-finops",
@@ -642,7 +642,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-22",
       "deprecated": false,
-      "path": "agents/engineering/engineering-cloud-finops.md"
+      "path": "agents\\engineering\\engineering-cloud-finops.md"
     },
     {
       "slug": "engineering-cms-developer",
@@ -673,7 +673,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-cms-developer.md"
+      "path": "agents\\engineering\\engineering-cms-developer.md"
     },
     {
       "slug": "engineering-code-reviewer",
@@ -701,7 +701,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-code-reviewer.md"
+      "path": "agents\\engineering\\engineering-code-reviewer.md"
     },
     {
       "slug": "engineering-cross-repo-refactor-specialist",
@@ -733,7 +733,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-22",
       "deprecated": false,
-      "path": "agents/engineering/engineering-cross-repo-refactor-specialist.md"
+      "path": "agents\\engineering\\engineering-cross-repo-refactor-specialist.md"
     },
     {
       "slug": "engineering-cve-triage-analyst",
@@ -764,7 +764,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-22",
       "deprecated": false,
-      "path": "agents/engineering/engineering-cve-triage-analyst.md"
+      "path": "agents\\engineering\\engineering-cve-triage-analyst.md"
     },
     {
       "slug": "engineering-data-engineer",
@@ -795,7 +795,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-data-engineer.md"
+      "path": "agents\\engineering\\engineering-data-engineer.md"
     },
     {
       "slug": "engineering-database-optimizer",
@@ -824,7 +824,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-database-optimizer.md"
+      "path": "agents\\engineering\\engineering-database-optimizer.md"
     },
     {
       "slug": "engineering-debug-specialist",
@@ -856,7 +856,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-22",
       "deprecated": false,
-      "path": "agents/engineering/engineering-debug-specialist.md"
+      "path": "agents\\engineering\\engineering-debug-specialist.md"
     },
     {
       "slug": "engineering-devops-automator",
@@ -887,7 +887,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-devops-automator.md"
+      "path": "agents\\engineering\\engineering-devops-automator.md"
     },
     {
       "slug": "engineering-email-intelligence-engineer",
@@ -918,7 +918,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-email-intelligence-engineer.md"
+      "path": "agents\\engineering\\engineering-email-intelligence-engineer.md"
     },
     {
       "slug": "engineering-embedded-firmware-engineer",
@@ -940,7 +940,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-embedded-firmware-engineer.md"
+      "path": "agents\\engineering\\engineering-embedded-firmware-engineer.md"
     },
     {
       "slug": "engineering-event-driven-architect",
@@ -973,7 +973,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-event-driven-architect.md"
+      "path": "agents\\engineering\\engineering-event-driven-architect.md"
     },
     {
       "slug": "engineering-feishu-integration-developer",
@@ -1004,7 +1004,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-feishu-integration-developer.md"
+      "path": "agents\\engineering\\engineering-feishu-integration-developer.md"
     },
     {
       "slug": "engineering-filament-optimization-specialist",
@@ -1028,7 +1028,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-filament-optimization-specialist.md"
+      "path": "agents\\engineering\\engineering-filament-optimization-specialist.md"
     },
     {
       "slug": "engineering-frontend-developer",
@@ -1059,7 +1059,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-frontend-developer.md"
+      "path": "agents\\engineering\\engineering-frontend-developer.md"
     },
     {
       "slug": "engineering-git-workflow-master",
@@ -1082,7 +1082,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-git-workflow-master.md"
+      "path": "agents\\engineering\\engineering-git-workflow-master.md"
     },
     {
       "slug": "engineering-graphql-grpc-architect",
@@ -1115,7 +1115,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-graphql-grpc-architect.md"
+      "path": "agents\\engineering\\engineering-graphql-grpc-architect.md"
     },
     {
       "slug": "engineering-incident-response-commander",
@@ -1144,7 +1144,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-incident-response-commander.md"
+      "path": "agents\\engineering\\engineering-incident-response-commander.md"
     },
     {
       "slug": "engineering-inference-economics-optimizer",
@@ -1177,7 +1177,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-inference-economics-optimizer.md"
+      "path": "agents\\engineering\\engineering-inference-economics-optimizer.md"
     },
     {
       "slug": "engineering-laravel-livewire-specialist",
@@ -1212,7 +1212,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-laravel-livewire-specialist.md"
+      "path": "agents\\engineering\\engineering-laravel-livewire-specialist.md"
     },
     {
       "slug": "engineering-llm-evaluation-harness",
@@ -1246,7 +1246,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-llm-evaluation-harness.md"
+      "path": "agents\\engineering\\engineering-llm-evaluation-harness.md"
     },
     {
       "slug": "engineering-migration-engineer",
@@ -1281,7 +1281,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-22",
       "deprecated": false,
-      "path": "agents/engineering/engineering-migration-engineer.md"
+      "path": "agents\\engineering\\engineering-migration-engineer.md"
     },
     {
       "slug": "engineering-minimal-change-engineer",
@@ -1304,7 +1304,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-minimal-change-engineer.md"
+      "path": "agents\\engineering\\engineering-minimal-change-engineer.md"
     },
     {
       "slug": "engineering-mobile-app-builder",
@@ -1335,7 +1335,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-mobile-app-builder.md"
+      "path": "agents\\engineering\\engineering-mobile-app-builder.md"
     },
     {
       "slug": "engineering-opentelemetry-lead",
@@ -1369,7 +1369,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-opentelemetry-lead.md"
+      "path": "agents\\engineering\\engineering-opentelemetry-lead.md"
     },
     {
       "slug": "engineering-rag-pipeline-architect",
@@ -1404,7 +1404,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-rag-pipeline-architect.md"
+      "path": "agents\\engineering\\engineering-rag-pipeline-architect.md"
     },
     {
       "slug": "engineering-rapid-prototyper",
@@ -1435,7 +1435,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-rapid-prototyper.md"
+      "path": "agents\\engineering\\engineering-rapid-prototyper.md"
     },
     {
       "slug": "engineering-security-engineer",
@@ -1471,7 +1471,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-security-engineer.md"
+      "path": "agents\\engineering\\engineering-security-engineer.md"
     },
     {
       "slug": "engineering-software-architect",
@@ -1497,7 +1497,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-software-architect.md"
+      "path": "agents\\engineering\\engineering-software-architect.md"
     },
     {
       "slug": "engineering-solidity-smart-contract-engineer",
@@ -1528,7 +1528,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-solidity-smart-contract-engineer.md"
+      "path": "agents\\engineering\\engineering-solidity-smart-contract-engineer.md"
     },
     {
       "slug": "engineering-sre",
@@ -1557,7 +1557,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-sre.md"
+      "path": "agents\\engineering\\engineering-sre.md"
     },
     {
       "slug": "engineering-technical-writer",
@@ -1585,7 +1585,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-technical-writer.md"
+      "path": "agents\\engineering\\engineering-technical-writer.md"
     },
     {
       "slug": "engineering-threat-detection-engineer",
@@ -1617,7 +1617,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-threat-detection-engineer.md"
+      "path": "agents\\engineering\\engineering-threat-detection-engineer.md"
     },
     {
       "slug": "engineering-wechat-mini-program-developer",
@@ -1648,7 +1648,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/engineering-wechat-mini-program-developer.md"
+      "path": "agents\\engineering\\engineering-wechat-mini-program-developer.md"
     },
     {
       "slug": "lsp-index-engineer",
@@ -1674,7 +1674,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/lsp-index-engineer.md"
+      "path": "agents\\engineering\\lsp-index-engineer.md"
     },
     {
       "slug": "specialized-document-generator",
@@ -1698,7 +1698,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/specialized-document-generator.md"
+      "path": "agents\\engineering\\specialized-document-generator.md"
     },
     {
       "slug": "specialized-mcp-builder",
@@ -1727,7 +1727,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/specialized-mcp-builder.md"
+      "path": "agents\\engineering\\specialized-mcp-builder.md"
     },
     {
       "slug": "specialized-salesforce-architect",
@@ -1754,7 +1754,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/specialized-salesforce-architect.md"
+      "path": "agents\\engineering\\specialized-salesforce-architect.md"
     },
     {
       "slug": "specialized-workflow-architect",
@@ -1785,7 +1785,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/engineering/specialized-workflow-architect.md"
+      "path": "agents\\engineering\\specialized-workflow-architect.md"
     },
     {
       "slug": "accounts-payable-agent",
@@ -1811,7 +1811,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/finance/accounts-payable-agent.md"
+      "path": "agents\\finance\\accounts-payable-agent.md"
     },
     {
       "slug": "finance-bookkeeper-controller",
@@ -1840,7 +1840,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/finance/finance-bookkeeper-controller.md"
+      "path": "agents\\finance\\finance-bookkeeper-controller.md"
     },
     {
       "slug": "finance-financial-analyst",
@@ -1869,7 +1869,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/finance/finance-financial-analyst.md"
+      "path": "agents\\finance\\finance-financial-analyst.md"
     },
     {
       "slug": "finance-fpa-analyst",
@@ -1900,7 +1900,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/finance/finance-fpa-analyst.md"
+      "path": "agents\\finance\\finance-fpa-analyst.md"
     },
     {
       "slug": "finance-investment-researcher",
@@ -1927,7 +1927,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/finance/finance-investment-researcher.md"
+      "path": "agents\\finance\\finance-investment-researcher.md"
     },
     {
       "slug": "finance-tax-strategist",
@@ -1954,7 +1954,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/finance/finance-tax-strategist.md"
+      "path": "agents\\finance\\finance-tax-strategist.md"
     },
     {
       "slug": "blender-addon-engineer",
@@ -1978,7 +1978,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/game-development/blender/blender-addon-engineer.md"
+      "path": "agents\\game-development\\blender\\blender-addon-engineer.md"
     },
     {
       "slug": "game-audio-engineer",
@@ -2006,7 +2006,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/game-development/game-audio-engineer.md"
+      "path": "agents\\game-development\\game-audio-engineer.md"
     },
     {
       "slug": "game-designer",
@@ -2031,7 +2031,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/game-development/game-designer.md"
+      "path": "agents\\game-development\\game-designer.md"
     },
     {
       "slug": "godot-gameplay-scripter",
@@ -2063,7 +2063,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/game-development/godot/godot-gameplay-scripter.md"
+      "path": "agents\\game-development\\godot\\godot-gameplay-scripter.md"
     },
     {
       "slug": "godot-multiplayer-engineer",
@@ -2091,7 +2091,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/game-development/godot/godot-multiplayer-engineer.md"
+      "path": "agents\\game-development\\godot\\godot-multiplayer-engineer.md"
     },
     {
       "slug": "godot-shader-developer",
@@ -2125,7 +2125,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/game-development/godot/godot-shader-developer.md"
+      "path": "agents\\game-development\\godot\\godot-shader-developer.md"
     },
     {
       "slug": "level-designer",
@@ -2149,7 +2149,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/game-development/level-designer.md"
+      "path": "agents\\game-development\\level-designer.md"
     },
     {
       "slug": "narrative-designer",
@@ -2176,7 +2176,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/game-development/narrative-designer.md"
+      "path": "agents\\game-development\\narrative-designer.md"
     },
     {
       "slug": "roblox-avatar-creator",
@@ -2202,7 +2202,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/game-development/roblox-studio/roblox-avatar-creator.md"
+      "path": "agents\\game-development\\roblox-studio\\roblox-avatar-creator.md"
     },
     {
       "slug": "roblox-experience-designer",
@@ -2229,7 +2229,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/game-development/roblox-studio/roblox-experience-designer.md"
+      "path": "agents\\game-development\\roblox-studio\\roblox-experience-designer.md"
     },
     {
       "slug": "roblox-systems-scripter",
@@ -2258,7 +2258,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/game-development/roblox-studio/roblox-systems-scripter.md"
+      "path": "agents\\game-development\\roblox-studio\\roblox-systems-scripter.md"
     },
     {
       "slug": "technical-artist",
@@ -2288,7 +2288,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/game-development/technical-artist.md"
+      "path": "agents\\game-development\\technical-artist.md"
     },
     {
       "slug": "unity-architect",
@@ -2314,7 +2314,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/game-development/unity/unity-architect.md"
+      "path": "agents\\game-development\\unity\\unity-architect.md"
     },
     {
       "slug": "unity-editor-tool-developer",
@@ -2340,7 +2340,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/game-development/unity/unity-editor-tool-developer.md"
+      "path": "agents\\game-development\\unity\\unity-editor-tool-developer.md"
     },
     {
       "slug": "unity-multiplayer-engineer",
@@ -2366,7 +2366,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/game-development/unity/unity-multiplayer-engineer.md"
+      "path": "agents\\game-development\\unity\\unity-multiplayer-engineer.md"
     },
     {
       "slug": "unity-shader-graph-artist",
@@ -2401,7 +2401,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/game-development/unity/unity-shader-graph-artist.md"
+      "path": "agents\\game-development\\unity\\unity-shader-graph-artist.md"
     },
     {
       "slug": "unreal-multiplayer-architect",
@@ -2431,7 +2431,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/game-development/unreal-engine/unreal-multiplayer-architect.md"
+      "path": "agents\\game-development\\unreal-engine\\unreal-multiplayer-architect.md"
     },
     {
       "slug": "unreal-systems-engineer",
@@ -2463,7 +2463,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/game-development/unreal-engine/unreal-systems-engineer.md"
+      "path": "agents\\game-development\\unreal-engine\\unreal-systems-engineer.md"
     },
     {
       "slug": "unreal-technical-artist",
@@ -2492,7 +2492,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/game-development/unreal-engine/unreal-technical-artist.md"
+      "path": "agents\\game-development\\unreal-engine\\unreal-technical-artist.md"
     },
     {
       "slug": "unreal-world-builder",
@@ -2519,7 +2519,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/game-development/unreal-engine/unreal-world-builder.md"
+      "path": "agents\\game-development\\unreal-engine\\unreal-world-builder.md"
     },
     {
       "slug": "marketing-agentic-search-optimizer",
@@ -2554,7 +2554,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/marketing-agentic-search-optimizer.md"
+      "path": "agents\\marketing\\marketing-agentic-search-optimizer.md"
     },
     {
       "slug": "marketing-ai-citation-strategist",
@@ -2587,7 +2587,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/marketing-ai-citation-strategist.md"
+      "path": "agents\\marketing\\marketing-ai-citation-strategist.md"
     },
     {
       "slug": "marketing-app-store-optimizer",
@@ -2618,7 +2618,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/marketing-app-store-optimizer.md"
+      "path": "agents\\marketing\\marketing-app-store-optimizer.md"
     },
     {
       "slug": "marketing-baidu-seo-specialist",
@@ -2651,7 +2651,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/china/marketing-baidu-seo-specialist.md"
+      "path": "agents\\marketing\\china\\marketing-baidu-seo-specialist.md"
     },
     {
       "slug": "marketing-bilibili-content-strategist",
@@ -2682,7 +2682,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/china/marketing-bilibili-content-strategist.md"
+      "path": "agents\\marketing\\china\\marketing-bilibili-content-strategist.md"
     },
     {
       "slug": "marketing-book-co-author",
@@ -2707,7 +2707,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/marketing-book-co-author.md"
+      "path": "agents\\marketing\\marketing-book-co-author.md"
     },
     {
       "slug": "marketing-carousel-growth-engine",
@@ -2738,7 +2738,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/marketing-carousel-growth-engine.md"
+      "path": "agents\\marketing\\marketing-carousel-growth-engine.md"
     },
     {
       "slug": "marketing-china-ecommerce-operator",
@@ -2773,7 +2773,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/china/marketing-china-ecommerce-operator.md"
+      "path": "agents\\marketing\\china\\marketing-china-ecommerce-operator.md"
     },
     {
       "slug": "marketing-china-market-localization-strategist",
@@ -2804,7 +2804,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/china/marketing-china-market-localization-strategist.md"
+      "path": "agents\\marketing\\china\\marketing-china-market-localization-strategist.md"
     },
     {
       "slug": "marketing-content-creator",
@@ -2835,7 +2835,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/marketing-content-creator.md"
+      "path": "agents\\marketing\\marketing-content-creator.md"
     },
     {
       "slug": "marketing-cross-border-ecommerce",
@@ -2870,7 +2870,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/marketing-cross-border-ecommerce.md"
+      "path": "agents\\marketing\\marketing-cross-border-ecommerce.md"
     },
     {
       "slug": "marketing-douyin-strategist",
@@ -2897,7 +2897,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/china/marketing-douyin-strategist.md"
+      "path": "agents\\marketing\\china\\marketing-douyin-strategist.md"
     },
     {
       "slug": "marketing-growth-hacker",
@@ -2922,7 +2922,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/marketing-growth-hacker.md"
+      "path": "agents\\marketing\\marketing-growth-hacker.md"
     },
     {
       "slug": "marketing-instagram-curator",
@@ -2952,7 +2952,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/marketing-instagram-curator.md"
+      "path": "agents\\marketing\\marketing-instagram-curator.md"
     },
     {
       "slug": "marketing-kuaishou-strategist",
@@ -2987,7 +2987,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/china/marketing-kuaishou-strategist.md"
+      "path": "agents\\marketing\\china\\marketing-kuaishou-strategist.md"
     },
     {
       "slug": "marketing-linkedin-content-creator",
@@ -3012,7 +3012,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/marketing-linkedin-content-creator.md"
+      "path": "agents\\marketing\\marketing-linkedin-content-creator.md"
     },
     {
       "slug": "marketing-livestream-commerce-coach",
@@ -3047,7 +3047,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/china/marketing-livestream-commerce-coach.md"
+      "path": "agents\\marketing\\china\\marketing-livestream-commerce-coach.md"
     },
     {
       "slug": "marketing-podcast-strategist",
@@ -3080,7 +3080,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/marketing-podcast-strategist.md"
+      "path": "agents\\marketing\\marketing-podcast-strategist.md"
     },
     {
       "slug": "marketing-private-domain-operator",
@@ -3115,7 +3115,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/china/marketing-private-domain-operator.md"
+      "path": "agents\\marketing\\china\\marketing-private-domain-operator.md"
     },
     {
       "slug": "marketing-reddit-community-builder",
@@ -3142,7 +3142,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/marketing-reddit-community-builder.md"
+      "path": "agents\\marketing\\marketing-reddit-community-builder.md"
     },
     {
       "slug": "marketing-seo-specialist",
@@ -3178,7 +3178,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/marketing-seo-specialist.md"
+      "path": "agents\\marketing\\marketing-seo-specialist.md"
     },
     {
       "slug": "marketing-short-video-editing-coach",
@@ -3209,7 +3209,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/china/marketing-short-video-editing-coach.md"
+      "path": "agents\\marketing\\china\\marketing-short-video-editing-coach.md"
     },
     {
       "slug": "marketing-social-media-strategist",
@@ -3240,7 +3240,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/marketing-social-media-strategist.md"
+      "path": "agents\\marketing\\marketing-social-media-strategist.md"
     },
     {
       "slug": "marketing-tiktok-strategist",
@@ -3267,7 +3267,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/marketing-tiktok-strategist.md"
+      "path": "agents\\marketing\\marketing-tiktok-strategist.md"
     },
     {
       "slug": "marketing-twitter-engager",
@@ -3296,7 +3296,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/marketing-twitter-engager.md"
+      "path": "agents\\marketing\\marketing-twitter-engager.md"
     },
     {
       "slug": "marketing-video-optimization-specialist",
@@ -3322,7 +3322,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/marketing-video-optimization-specialist.md"
+      "path": "agents\\marketing\\marketing-video-optimization-specialist.md"
     },
     {
       "slug": "marketing-wechat-official-account",
@@ -3357,7 +3357,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/china/marketing-wechat-official-account.md"
+      "path": "agents\\marketing\\china\\marketing-wechat-official-account.md"
     },
     {
       "slug": "marketing-weibo-strategist",
@@ -3388,7 +3388,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/china/marketing-weibo-strategist.md"
+      "path": "agents\\marketing\\china\\marketing-weibo-strategist.md"
     },
     {
       "slug": "marketing-xiaohongshu-specialist",
@@ -3419,7 +3419,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/china/marketing-xiaohongshu-specialist.md"
+      "path": "agents\\marketing\\china\\marketing-xiaohongshu-specialist.md"
     },
     {
       "slug": "marketing-zhihu-strategist",
@@ -3446,7 +3446,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/marketing/china/marketing-zhihu-strategist.md"
+      "path": "agents\\marketing\\china\\marketing-zhihu-strategist.md"
     },
     {
       "slug": "agents-orchestrator",
@@ -3474,7 +3474,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-22",
       "deprecated": false,
-      "path": "agents/orchestration/agents-orchestrator.md"
+      "path": "agents\\orchestration\\agents-orchestrator.md"
     },
     {
       "slug": "repo-scout",
@@ -3498,7 +3498,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-22",
       "deprecated": false,
-      "path": "agents/orchestration/repo-scout.md"
+      "path": "agents\\orchestration\\repo-scout.md"
     },
     {
       "slug": "paid-media-auditor",
@@ -3525,7 +3525,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/paid-media/paid-media-auditor.md"
+      "path": "agents\\paid-media\\paid-media-auditor.md"
     },
     {
       "slug": "paid-media-creative-strategist",
@@ -3552,7 +3552,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/paid-media/paid-media-creative-strategist.md"
+      "path": "agents\\paid-media\\paid-media-creative-strategist.md"
     },
     {
       "slug": "paid-media-paid-social-strategist",
@@ -3583,7 +3583,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/paid-media/paid-media-paid-social-strategist.md"
+      "path": "agents\\paid-media\\paid-media-paid-social-strategist.md"
     },
     {
       "slug": "paid-media-ppc-strategist",
@@ -3614,7 +3614,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/paid-media/paid-media-ppc-strategist.md"
+      "path": "agents\\paid-media\\paid-media-ppc-strategist.md"
     },
     {
       "slug": "paid-media-programmatic-buyer",
@@ -3638,7 +3638,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/paid-media/paid-media-programmatic-buyer.md"
+      "path": "agents\\paid-media\\paid-media-programmatic-buyer.md"
     },
     {
       "slug": "paid-media-search-query-analyst",
@@ -3663,7 +3663,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/paid-media/paid-media-search-query-analyst.md"
+      "path": "agents\\paid-media\\paid-media-search-query-analyst.md"
     },
     {
       "slug": "paid-media-tracking-specialist",
@@ -3693,7 +3693,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/paid-media/paid-media-tracking-specialist.md"
+      "path": "agents\\paid-media\\paid-media-tracking-specialist.md"
     },
     {
       "slug": "product-behavioral-nudge-engine",
@@ -3716,7 +3716,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/product/product-behavioral-nudge-engine.md"
+      "path": "agents\\product\\product-behavioral-nudge-engine.md"
     },
     {
       "slug": "product-feedback-synthesizer",
@@ -3745,7 +3745,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/product/product-feedback-synthesizer.md"
+      "path": "agents\\product\\product-feedback-synthesizer.md"
     },
     {
       "slug": "product-manager",
@@ -3774,7 +3774,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/product/product-manager.md"
+      "path": "agents\\product\\product-manager.md"
     },
     {
       "slug": "product-sprint-prioritizer",
@@ -3802,7 +3802,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/product/product-sprint-prioritizer.md"
+      "path": "agents\\product\\product-sprint-prioritizer.md"
     },
     {
       "slug": "product-trend-researcher",
@@ -3833,7 +3833,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/product/product-trend-researcher.md"
+      "path": "agents\\product\\product-trend-researcher.md"
     },
     {
       "slug": "project-management-experiment-tracker",
@@ -3864,7 +3864,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/project-management/project-management-experiment-tracker.md"
+      "path": "agents\\project-management\\project-management-experiment-tracker.md"
     },
     {
       "slug": "project-management-jira-workflow-steward",
@@ -3895,7 +3895,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/project-management/project-management-jira-workflow-steward.md"
+      "path": "agents\\project-management\\project-management-jira-workflow-steward.md"
     },
     {
       "slug": "project-management-laravel-pm",
@@ -3925,7 +3925,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/project-management/project-management-laravel-pm.md"
+      "path": "agents\\project-management\\project-management-laravel-pm.md"
     },
     {
       "slug": "project-management-project-shepherd",
@@ -3950,7 +3950,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/project-management/project-management-project-shepherd.md"
+      "path": "agents\\project-management\\project-management-project-shepherd.md"
     },
     {
       "slug": "project-management-studio-operations",
@@ -3977,7 +3977,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/project-management/project-management-studio-operations.md"
+      "path": "agents\\project-management\\project-management-studio-operations.md"
     },
     {
       "slug": "project-management-studio-producer",
@@ -4007,7 +4007,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/project-management/project-management-studio-producer.md"
+      "path": "agents\\project-management\\project-management-studio-producer.md"
     },
     {
       "slug": "project-management-workflow-optimizer",
@@ -4041,7 +4041,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/project-management/project-management-workflow-optimizer.md"
+      "path": "agents\\project-management\\project-management-workflow-optimizer.md"
     },
     {
       "slug": "bg-regression-runner",
@@ -4069,7 +4069,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-22",
       "deprecated": false,
-      "path": "agents/review/bg-regression-runner.md"
+      "path": "agents\\review\\bg-regression-runner.md"
     },
     {
       "slug": "code-quality-auditor",
@@ -4098,7 +4098,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-22",
       "deprecated": false,
-      "path": "agents/review/code-quality-auditor.md"
+      "path": "agents\\review\\code-quality-auditor.md"
     },
     {
       "slug": "qa-verifier",
@@ -4128,7 +4128,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-22",
       "deprecated": false,
-      "path": "agents/review/qa-verifier.md"
+      "path": "agents\\review\\qa-verifier.md"
     },
     {
       "slug": "security-reviewer",
@@ -4162,7 +4162,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-22",
       "deprecated": false,
-      "path": "agents/review/security-reviewer.md"
+      "path": "agents\\review\\security-reviewer.md"
     },
     {
       "slug": "sre-observability",
@@ -4196,7 +4196,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-22",
       "deprecated": false,
-      "path": "agents/review/sre-observability.md"
+      "path": "agents\\review\\sre-observability.md"
     },
     {
       "slug": "wcag-a11y-gate",
@@ -4228,7 +4228,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-22",
       "deprecated": false,
-      "path": "agents/review/wcag-a11y-gate.md"
+      "path": "agents\\review\\wcag-a11y-gate.md"
     },
     {
       "slug": "sales-account-strategist",
@@ -4256,7 +4256,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/sales/sales-account-strategist.md"
+      "path": "agents\\sales\\sales-account-strategist.md"
     },
     {
       "slug": "sales-coach",
@@ -4284,7 +4284,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/sales/sales-coach.md"
+      "path": "agents\\sales\\sales-coach.md"
     },
     {
       "slug": "sales-deal-strategist",
@@ -4315,7 +4315,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/sales/sales-deal-strategist.md"
+      "path": "agents\\sales\\sales-deal-strategist.md"
     },
     {
       "slug": "sales-discovery-coach",
@@ -4338,7 +4338,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/sales/sales-discovery-coach.md"
+      "path": "agents\\sales\\sales-discovery-coach.md"
     },
     {
       "slug": "sales-engineer",
@@ -4367,7 +4367,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/sales/sales-engineer.md"
+      "path": "agents\\sales\\sales-engineer.md"
     },
     {
       "slug": "sales-outbound-strategist",
@@ -4390,7 +4390,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/sales/sales-outbound-strategist.md"
+      "path": "agents\\sales\\sales-outbound-strategist.md"
     },
     {
       "slug": "sales-pipeline-analyst",
@@ -4419,7 +4419,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/sales/sales-pipeline-analyst.md"
+      "path": "agents\\sales\\sales-pipeline-analyst.md"
     },
     {
       "slug": "sales-proposal-strategist",
@@ -4444,7 +4444,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/sales/sales-proposal-strategist.md"
+      "path": "agents\\sales\\sales-proposal-strategist.md"
     },
     {
       "slug": "macos-spatial-metal-engineer",
@@ -4473,7 +4473,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/spatial-computing/macos-spatial-metal-engineer.md"
+      "path": "agents\\spatial-computing\\macos-spatial-metal-engineer.md"
     },
     {
       "slug": "terminal-integration-specialist",
@@ -4499,7 +4499,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/spatial-computing/terminal-integration-specialist.md"
+      "path": "agents\\spatial-computing\\terminal-integration-specialist.md"
     },
     {
       "slug": "visionos-spatial-engineer",
@@ -4529,7 +4529,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/spatial-computing/visionos-spatial-engineer.md"
+      "path": "agents\\spatial-computing\\visionos-spatial-engineer.md"
     },
     {
       "slug": "xr-cockpit-interaction-specialist",
@@ -4552,7 +4552,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/spatial-computing/xr-cockpit-interaction-specialist.md"
+      "path": "agents\\spatial-computing\\xr-cockpit-interaction-specialist.md"
     },
     {
       "slug": "xr-immersive-developer",
@@ -4578,7 +4578,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/spatial-computing/xr-immersive-developer.md"
+      "path": "agents\\spatial-computing\\xr-immersive-developer.md"
     },
     {
       "slug": "xr-interface-architect",
@@ -4604,7 +4604,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/spatial-computing/xr-interface-architect.md"
+      "path": "agents\\spatial-computing\\xr-interface-architect.md"
     },
     {
       "slug": "agentic-identity-trust",
@@ -4635,7 +4635,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/specialized/agentic-identity-trust.md"
+      "path": "agents\\specialized\\agentic-identity-trust.md"
     },
     {
       "slug": "compliance-auditor",
@@ -4666,7 +4666,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/specialized/compliance-auditor.md"
+      "path": "agents\\specialized\\compliance-auditor.md"
     },
     {
       "slug": "corporate-training-designer",
@@ -4700,7 +4700,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/specialized/corporate-training-designer.md"
+      "path": "agents\\specialized\\corporate-training-designer.md"
     },
     {
       "slug": "government-digital-presales-consultant",
@@ -4732,7 +4732,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/specialized/government-digital-presales-consultant.md"
+      "path": "agents\\specialized\\government-digital-presales-consultant.md"
     },
     {
       "slug": "healthcare-marketing-compliance",
@@ -4768,7 +4768,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/specialized/healthcare-marketing-compliance.md"
+      "path": "agents\\specialized\\healthcare-marketing-compliance.md"
     },
     {
       "slug": "identity-graph-operator",
@@ -4795,7 +4795,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/specialized/identity-graph-operator.md"
+      "path": "agents\\specialized\\identity-graph-operator.md"
     },
     {
       "slug": "recruitment-specialist",
@@ -4829,7 +4829,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/specialized/recruitment-specialist.md"
+      "path": "agents\\specialized\\recruitment-specialist.md"
     },
     {
       "slug": "report-distribution-agent",
@@ -4853,7 +4853,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/specialized/report-distribution-agent.md"
+      "path": "agents\\specialized\\report-distribution-agent.md"
     },
     {
       "slug": "sales-data-extraction-agent",
@@ -4878,7 +4878,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/specialized/sales-data-extraction-agent.md"
+      "path": "agents\\specialized\\sales-data-extraction-agent.md"
     },
     {
       "slug": "specialized-civil-engineer",
@@ -4903,7 +4903,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/specialized/specialized-civil-engineer.md"
+      "path": "agents\\specialized\\specialized-civil-engineer.md"
     },
     {
       "slug": "specialized-cultural-intelligence-strategist",
@@ -4926,7 +4926,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/specialized/specialized-cultural-intelligence-strategist.md"
+      "path": "agents\\specialized\\specialized-cultural-intelligence-strategist.md"
     },
     {
       "slug": "specialized-developer-advocate",
@@ -4961,7 +4961,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/specialized/specialized-developer-advocate.md"
+      "path": "agents\\specialized\\specialized-developer-advocate.md"
     },
     {
       "slug": "specialized-french-consulting-market",
@@ -4987,7 +4987,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/specialized/specialized-french-consulting-market.md"
+      "path": "agents\\specialized\\specialized-french-consulting-market.md"
     },
     {
       "slug": "specialized-korean-business-navigator",
@@ -5010,7 +5010,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/specialized/specialized-korean-business-navigator.md"
+      "path": "agents\\specialized\\specialized-korean-business-navigator.md"
     },
     {
       "slug": "study-abroad-advisor",
@@ -5034,7 +5034,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/specialized/study-abroad-advisor.md"
+      "path": "agents\\specialized\\study-abroad-advisor.md"
     },
     {
       "slug": "supply-chain-strategist",
@@ -5065,7 +5065,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/specialized/supply-chain-strategist.md"
+      "path": "agents\\specialized\\supply-chain-strategist.md"
     },
     {
       "slug": "zk-steward",
@@ -5091,7 +5091,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/specialized/zk-steward.md"
+      "path": "agents\\specialized\\zk-steward.md"
     },
     {
       "slug": "support-analytics-reporter",
@@ -5122,7 +5122,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/support/support-analytics-reporter.md"
+      "path": "agents\\support\\support-analytics-reporter.md"
     },
     {
       "slug": "support-executive-summary-generator",
@@ -5148,7 +5148,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/support/support-executive-summary-generator.md"
+      "path": "agents\\support\\support-executive-summary-generator.md"
     },
     {
       "slug": "support-infrastructure-maintainer",
@@ -5179,7 +5179,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/support/support-infrastructure-maintainer.md"
+      "path": "agents\\support\\support-infrastructure-maintainer.md"
     },
     {
       "slug": "support-legal-compliance-checker",
@@ -5210,7 +5210,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/support/support-legal-compliance-checker.md"
+      "path": "agents\\support\\support-legal-compliance-checker.md"
     },
     {
       "slug": "support-support-responder",
@@ -5239,7 +5239,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/support/support-support-responder.md"
+      "path": "agents\\support\\support-support-responder.md"
     },
     {
       "slug": "specialized-model-qa",
@@ -5270,7 +5270,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/testing/specialized-model-qa.md"
+      "path": "agents\\testing\\specialized-model-qa.md"
     },
     {
       "slug": "testing-accessibility-auditor",
@@ -5301,7 +5301,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/testing/testing-accessibility-auditor.md"
+      "path": "agents\\testing\\testing-accessibility-auditor.md"
     },
     {
       "slug": "testing-api-tester",
@@ -5336,7 +5336,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/testing/testing-api-tester.md"
+      "path": "agents\\testing\\testing-api-tester.md"
     },
     {
       "slug": "testing-evidence-collector",
@@ -5365,7 +5365,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/testing/testing-evidence-collector.md"
+      "path": "agents\\testing\\testing-evidence-collector.md"
     },
     {
       "slug": "testing-performance-benchmarker",
@@ -5399,7 +5399,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/testing/testing-performance-benchmarker.md"
+      "path": "agents\\testing\\testing-performance-benchmarker.md"
     },
     {
       "slug": "testing-reality-checker",
@@ -5429,7 +5429,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/testing/testing-reality-checker.md"
+      "path": "agents\\testing\\testing-reality-checker.md"
     },
     {
       "slug": "testing-test-results-analyzer",
@@ -5459,7 +5459,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/testing/testing-test-results-analyzer.md"
+      "path": "agents\\testing\\testing-test-results-analyzer.md"
     },
     {
       "slug": "testing-tool-evaluator",
@@ -5490,7 +5490,7 @@
       "version": "1.0.0",
       "updated_at": "2026-04-23",
       "deprecated": false,
-      "path": "agents/testing/testing-tool-evaluator.md"
+      "path": "agents\\testing\\testing-tool-evaluator.md"
     }
   ],
   "by_category": {
